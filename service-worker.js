@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sinchi-frontend/precache-manifest.ed6c8a028ef988d08556e9c7dae2a2d1.js"
+  "/sinchi-frontend/precache-manifest.5f89534691172c05f306c083c2e1ea9a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "SINCHI"});
